@@ -10,11 +10,11 @@ to run: Test_dome.m
 This code is corresponding to our TCYB paper below:
 
 @article{zhou2019dual,  
-         title={Dual Shared-Specific Multiview Subspace Clustering},
-         author={Zhou, Tao and Zhang, Changqing and Peng, Xi and Bhaskar, Harish and Yang, Jie},
-         journal={IEEE transactions on cybernetics},
-         year={2019},
-         publisher={IEEE}
+         title={Dual Shared-Specific Multiview Subspace Clustering},  
+         author={Zhou, Tao and Zhang, Changqing and Peng, Xi and Bhaskar, Harish and Yang, Jie},  
+         journal={IEEE transactions on cybernetics},  
+         year={2019},  
+         publisher={IEEE}  
 }
 
 
