@@ -6,7 +6,7 @@ This repository contains code for our IEEE TCYB 2019 paper: Dual Shared-Specific
 ## Running the code
 to run: Test_dome.m
 
-## cite
+## Paper
 This code is corresponding to our TCYB paper below:
 
 @article{zhou2019dual,
