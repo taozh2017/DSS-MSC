@@ -1,4 +1,4 @@
-# DSS-MSC
+# Dual Shared-Specific Multiview Subspace Clustering
 
 ##
 This repository contains code for our IEEE TCYB 2019 paper: Dual Shared-Specific Multiview Subspace Clustering (https://ieeexplore.ieee.org/abstract/document/8740912).
